@@ -1,27 +1,28 @@
 <!doctype html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8">
-		<title>Hiroya Gojo's Portfolio</title>
-
 		<!--- Bootstrap -->
-		<link rel="stylesheet" href="css/bootstrap.min.css">
-		<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="css/main.css">
+		<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+		<script>
+			$(function() { $("head").load("header.html") });
+		</script>
 
 	</head>
 
-	<body>
+	<body class="main-img">
+		<!--- Navigation -->
+		<div id="nav-placeholder"></div>
+		<script>
+			$(function() {
+				$("#nav-placeholder").load("nav.html");
+			});
+		</script>
+
+		<div class="jumbotron jumbotron-fluid" id="jumbo">
 		<div class="container">
-			<h1>Welcome to my portfolio</h1>
-
-			<div class=".col-lg-4">
-			</div>
-			<div class=".col-lg-4">
-			</div>
-			<div class=".col-lg-4">
-			</div>
-
+			<h1 class="title-marg display-3 text-center">Hello, my name is Hiroya.</h1>
+			<h2 class="mt-5 text-center">I'm a programmer and a computer science student.</h2>
+			<h4 class="mt-5 text-center">For any inquiries, email me at hiroya.gojo01@gmail.com</h4>
 		</div>
 	</body>
 </html>
