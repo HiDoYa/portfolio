@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<!--- Bootstrap -->
+		<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+		<script>
+			$(function() { $("head").load("header.html") });
+		</script>
+
+	</head>
+
+	<body>
+		<!--- Navigation -->
+		<div id="nav-placeholder"></div>
+		<script>
+			$(function() {
+				$("#nav-placeholder").load("nav.html");
+			});
+		</script>
+
+		<div class="top-marg-5 container">
+			<div class="row"></div>
+			<div class="row"></div>
+			<div class="row"></div>
+			<h2 class="display-3 text-center">Projects</h1>
+
+			<div class="row mt-5">
+				<div class="col-md-4 text-center">
+					<h4>Dystopia RPG</h4>
+					<br>
+					<a class="btn btn-outline-info" type="button" target="_blank" href="https://github.com/HiDoYa/dystopia-rpg">Source Code Here</a>
+					<br><br>
+					Written in: C++
+					<br><br>
+					<img class="img-fluid zoom" src="images/dystopia-rpg.png">
+					<br><br>
+					I programmed a role-playing game (RPG) from scratch using the SFML graphics library.
+				</div>
+				<div class="col-md-4 text-center">
+					<h4>Gravity Simulation</h4>
+					<br>
+					<a class="btn btn-outline-info" type="button" target="_blank" href="https://github.com/HiDoYa/ap-physics-simulation">Source Code Here</a>
+					<br><br>
+					Written in: Python
+					<br><br>
+					<img class="img-fluid zoom" src="images/gravity-simulation.png">
+					<br><br>
+					I created a gravity simulation of free particles in space. This was written with the pygame library. I assumed perfectly elastic collision and used conservation of momentum for all my calculations. 
+				</div>
+				<div class="col-md-4 text-center">
+					<h4>Face Combiner</h4>
+					<br>
+					<a class="btn btn-outline-info" type="button" target="_blank" href="https://github.com/HiDoYa/face-combiner">Source Code Here</a>
+					<br><br>
+					Written in: HTML/CSS/Javascript
+					<br><br>
+					<img class="img-fluid zoom" src="images/face-combiner.png">
+					<br><br>
+					I made a "face combiner" web app where the user uploads images onto the website and the app combines them in scrambled ways.
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
