@@ -9,6 +9,23 @@
 	background-size: cover;
 }
 
+.bg-color {
+	background-color: #fafafa;
+}
+
+.portfolio-img {
+	width: auto;
+	max-height: 15em;
+	border: 0.2em solid lightgrey;
+	background-color: lightgrey;
+	border-radius: 1em;
+}
+
+.about-img {
+	border: 0.2em solid lightgrey;
+	border-radius: 1em;
+}
+
 #jumbo {
 	opacity: 0.7;
 }
@@ -20,6 +37,10 @@
 
 .top-marg-5 {
 	margin-top: 5em;
+}
+
+.bot-marg {
+	margin-bottom: 5em;
 }
 
 .about {
