@@ -5,9 +5,14 @@
 	font-family: 'Montserrat', sans-serif;
 }
 
+.navbar-bg {
+	background: linear-gradient(to top, #209dad, #7edeea);
+}
+
 .main-img {
 	background-image: url("../images/main-img.png");
 	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 .bg-color {
@@ -29,6 +34,8 @@
 
 #jumbo {
 	opacity: 0.7;
+	background: linear-gradient(to top, #ffd1fe, #7edeea);
+	/* height: 100vh; Need?*/
 }
 
 .title-marg {
