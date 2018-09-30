@@ -92,3 +92,78 @@
 .icon-size {
 	width: 4em;
 }
+
+.bar {
+	width: 50vw;
+	height: 1.3em;
+	display: inline-block;
+	position: absolute; 
+	border-radius: 0.5em;
+	left: 30vw;
+
+	background: white;
+}
+
+.bar-fill-90 {
+	width: 44vw;
+	height: 1.3em;
+	display: inline-block;
+	position: absolute; 
+	border-radius: 0.5em;
+	border: 0.2em solid white;
+	left: 30vw;
+
+	background: #04a500;
+}
+
+.bar-fill-70 {
+	width: 34vw;
+	height: 1.3em;
+	display: inline-block;
+	position: absolute; 
+	border-radius: 0.5em;
+	border: 0.2em solid white;
+	left: 30vw;
+
+	background: #aee02a;
+}
+
+.bar-fill-50 {
+	width: 24vw;
+	height: 1.3em;
+	display: inline-block;
+	position: absolute; 
+	border-radius: 0.5em;
+	border: 0.2em solid white;
+	left: 30vw;
+
+	background: #e6ea4e;
+}
+
+.bar-fill-30 {
+	width: 14vw;
+	height: 1.3em;
+	display: inline-block;
+	position: absolute; 
+	border-radius: 0.5em;
+	border: 0.2em solid white;
+	left: 30vw;
+
+	background: #e0be2a;
+}
+
+.bar-fill-10 {
+	width: 4vw;
+	height: 1.3em;
+	display: inline-block;
+	position: absolute; 
+	border-radius: 0.5em;
+	border: 0.2em solid white;
+	left: 30vw;
+
+	background: #04a500;
+}
+
+li {
+	margin-top: 1.2em;
+}
