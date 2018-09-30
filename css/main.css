@@ -9,6 +9,12 @@
 	background: linear-gradient(to top, #209dad, #7edeea);
 }
 
+.navbar-size {
+	padding-left: 2em;
+	padding-right: 2em;
+	height: 10%;
+}
+
 .main-img {
 	background-image: url("../images/main-img.png");
 	background-size: cover;
@@ -71,6 +77,10 @@
 }
 
 .logo {
-	border: 0.1em solid lightgrey;
-	border-radius: 0.7em;
+	text-decoration: underline;
+	color: #ffffff;
+}
+
+.navbar-text {
+	font-size: 1.3em;
 }
