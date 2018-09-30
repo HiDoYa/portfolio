@@ -4,8 +4,8 @@ $(document).ready(function() {
   $(".animsition-overlay").animsition({
     inClass: 'overlay-slide-in-top',
     outClass: 'overlay-slide-out-top',
-    inDuration: 500,
-    outDuration: 500,
+    inDuration: 300,
+    outDuration: 300,
     linkElement: '.animsition-link',
     // e.g. linkElement: 'a:not([target="_blank"]):not([href^="#"])'
     loading: true,
@@ -24,3 +24,5 @@ $(document).ready(function() {
     transition: function(url){ window.location.href = url; }
   });
 });
+
+
