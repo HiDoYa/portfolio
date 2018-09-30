@@ -90,10 +90,14 @@
 }
 
 .icon-size {
-	width: 3.5em;
+	width: 2em;
+	padding: 0;
+	margin-left: 1.5em;
+	border: none;
 }
 
 .icon {
+	background-color: #b4a7a1;
 	filter: invert(1);
 }
 
