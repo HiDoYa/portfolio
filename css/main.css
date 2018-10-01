@@ -114,6 +114,11 @@
 	transition: transform .2s;
 }
 
+.proficiency {
+	position: absolute;
+	left: 50vw;
+}
+
 .icon:hover {
 	transform: scale(1.2);
 	-webkit-transform: scale(1.2);
