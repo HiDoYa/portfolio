@@ -183,7 +183,7 @@
 	background: #04a500;
 }
 
-@media only screen and (max-width:850px) {
+@media only screen and (max-width:900px) {
 	.bar-fill-10, .bar-fill-30, .bar-fill-50, .bar-fill-70, .bar-fill-90, .bar {
 		left: 45vw;
 	}
