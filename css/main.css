@@ -44,6 +44,7 @@
 
 	height: 100%;
 	width: 100%;
+	min-height: 50em;
 	position: absolute;
 	margin-bottom: 0em;
 }
@@ -130,6 +131,9 @@
 	}
 	.icon-size {
 		width: 1em;
+	}
+	.main-img {
+		background-image: none;
 	}
 }
 
