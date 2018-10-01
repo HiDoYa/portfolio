@@ -119,6 +119,10 @@
 	left: 50vw;
 }
 
+.skill-table {
+	table-layout: fixed;
+}
+
 .icon:hover {
 	transform: scale(1.2);
 	-webkit-transform: scale(1.2);
