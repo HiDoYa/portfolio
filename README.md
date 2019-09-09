@@ -3,4 +3,4 @@ My portfolio website for my projects and experience. Accessible [here](https://h
 
 Uses jquery, blivesta, and bootstrap.
 
-![alt text](images/portfolio.png)
+![alt text](images/projects/portfolio.png)
