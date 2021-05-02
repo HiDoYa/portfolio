@@ -1,0 +1,49 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # hideTitle: true
+
+skills:
+- name: Programming Languages
+  logo: "/images/skills/python.png"
+  # url: ""
+  summary: "Proficient with **Golang**, **Python**, **C/C++**, **Javascript**, and **Bash**."
+
+- name: Web Frameworks and Libraries
+  logo: "/images/skills/react.png"
+  summary: "Experience working with frontend frameworks such as **React** and **Angular**, as well as backend framework such as **Django** and **Express**."
+
+- name: Container Orchestration
+  logo: "/images/skills/kubernetes.png"
+  summary: "Comfortable containerizing applications using **Docker**. Capable of deploying, managing application on **Kubernetes** using **Helm**."
+
+- name: Cloud Computing
+  logo: "/images/skills/cloud.png"
+  summary: "Worked with most of the major cloud services such as **Google Cloud** and **AWS**."
+
+- name: Version Control
+  logo: "/images/skills/git.png"
+  summary: "Understanding of version control using **Git** and basic workflow such as branching, MR/PR, code reviews, etc."
+
+- name: Databases
+  logo: "/images/skills/postgres.png"
+  summary: "Have used various SQL based databases such as **Postgresql** and **MySQL**. Comfortable with some NoSQL databases such as **MongoDB**."
+
+- name: CI/CD
+  logo: "/images/skills/gitlab.png"
+  summary: "Experienced with CI/CD tools and concepts, with practical experience with **Gitlab CI/CD** and **Jenkins**."
+
+- name: Time Series Logging
+  logo: "/images/skills/prometheus.png"
+  summary: "Professional experience with time-series databases such as **Prometheus** and **InfluxDB** using tools such as **Grafana** and **Telegraf** for visualizations."
+
+- name: Logging
+  logo: "/images/skills/elasticsearch.png"
+  summary: "Have deployed and used logging solutions such as the **ELK stack** (elasticsearch, logstash, kibana)."
+
+- name: Configuration Management
+  logo: "/images/skills/ansible.png"
+  summary: "Comfortable with configuration management tools such as **Ansible**."

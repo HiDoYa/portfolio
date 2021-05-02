@@ -1,0 +1,20 @@
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # hideTitle: true
+
+degrees:
+- name: B.Sc. in Computer Science & Engineering
+  icon: fa-graduation-cap
+  timeframe: 2017-2021
+  institution:
+    name: University of California, Davis
+    url: "https://www.ucdavis.edu/"
+  grade:
+    scale: GPA
+    achieved: 3.9
+    outOf: 4

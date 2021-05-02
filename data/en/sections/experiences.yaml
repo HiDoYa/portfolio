@@ -1,0 +1,77 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # hideTitle: true 
+
+experiences:
+- company:
+    name: The Trade Desk
+    url: "https://www.thetradedesk.com/"
+    location: Ventura, CA
+    # overview: ""
+  positions:
+  - designation: Software Engineer
+    start: June 2021
+    # end: Dec 2020
+    responsibilities: []
+
+- company:
+    name: Creative Media
+    url: "http://creativemedia.ucdavis.edu/"
+    location: Davis, CA
+  positions:
+  - designation: Lead Software Engineer
+    start: September 2020
+    end: June 2021
+    responsibilities:
+      - Lead and mentored a team of 7 developers for programming projects. Interviewed, hired, and trained 4 programmers.
+      - Developed UC Davis websites using Django and SQL databases with Nginx as a web server. Powering most of the school web applications and ecommerce sites serving over 40,000 students.
+      - Setup and maintain a virtual machine fleet using VMWare ESXi/vCenter with NAS.
+      - Dockerize applications and create Helm charts for deployment on Kubernetes (GKE). Greatly simplified Kubernetes cluster architecture.
+      - Configured and maintained network architecture, DNS, and firewall rules for the association using pfSense and Unifi switches/APs.
+      - Implemented a monitoring solution using the TICK stack (Telegraf, InfluxDB, Chronograf, Kapacitor) to run health checks against services and provide alerts to ensure high uptime.
+      - Spearheaded movement towards infrastructure as code (IaC) using Terraform and Ansible to provision and configure servers.
+      - Deployed a logging solution with ELK stack (Elasticsearch, Logstash, Kibana), Filebeats on each data source,and Kafka as a messaging queue to handle load.
+
+- company:
+    name: Joel Porquet Research Lab
+    location: Davis, CA
+  positions:
+  - designation: Undergraduate Researcher
+    start: September 2020
+    end: May 2021
+    responsibilities:
+      - Developed LupSeat, a smart and automatic seat assignment generator, using Python with multiple clustering algorithms to space empty seats equally in a room.
+      - Integrated a full suite of automated unit tests and fuzz tests using Pytest and bash to ensure the software’s correctness.
+      - Packaged and released software as a pip package as well as with binary builds for Mac/Windows using GitlabCI/CD.
+      - Presented the project in an Undergraduate Reference Conference.
+      - Designed and developed a backend API and multitable SQL schema for LupGist, a framework to store, display, and comment on code gists.
+
+- company:
+    name: The Trade Desk
+    url: "https://www.thetradedesk.com/"
+    location: Ventura, CA
+  positions:
+  - designation: Software Engineer Intern
+    start: June 2020
+    end: September 2020
+    responsibilities:
+      - Pioneered the open source network monitoring system Anubis to test connections in the company’s internal wide area network using golang and Docker.
+      - Dispatched and configured Anubis network agents to ~20 AWS, Aliyun, and on-prem servers automatically using Ansible.
+      - Incorporated Prometheus and Grafana for visualizing and creating alerts for network metrics.
+
+- company:
+    name: Philips
+    url: "https://www.usa.philips.com/healthcare/solutions/interventional-devices-and-therapies"
+    location: Rancho Cordova, CA
+  positions:
+  - designation: Software Engineer Intern
+    start: June 2019
+    end: September 2019
+    responsibilities:
+      - Setup a test automation framework to automatically run remote tests as a part of a Jenkins CI/CD pipeline.
+      - Created an internal dashboard tool which fetches data from several services to show each software team’s development trends using React framework, d3 visualization library, and Jenkins for hosting and automated running of python scripts.
+      - Evaluated potential benefits of Dr. Memory dynamic memory analysis tool and presented findings to relevant stakeholders.
