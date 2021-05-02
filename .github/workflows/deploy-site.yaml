@@ -38,4 +38,4 @@ jobs:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
         source_file: 'CNAME'
-        destination_repo: 'CNAME'
+        destination_repo: 'HiDoYa/HiDoYa.github.io'
