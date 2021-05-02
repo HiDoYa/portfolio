@@ -14,7 +14,7 @@ skills:
 
 - name: Web Frameworks and Libraries
   logo: "/images/skills/react.png"
-  summary: "Experience working with frontend frameworks such as **React** and **Angular**, as well as backend framework such as **Django** and **Express**."
+  summary: "Experience working with frontend frameworks such as **React** and **Angular**, as well as backend framework such as **Django** and **Express**. Worked with static site generators such as **Hugo**."
 
 - name: Container Orchestration
   logo: "/images/skills/kubernetes.png"
