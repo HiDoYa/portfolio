@@ -28,6 +28,7 @@ params:
   logo:
     main: "/images/author/author.png"
     inverted: "/images/author/author.png"
+    favicon: "/images/author/author.png"
 
   # GitHub repo URL of your site
   gitRepo: https://github.com/HiDoYa/hidoya.github.io

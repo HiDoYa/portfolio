@@ -18,3 +18,13 @@ degrees:
     scale: GPA
     achieved: 3.9
     outOf: 4
+- name: Secondary School
+  icon: fa-graduation-cap
+  timeframe: 2013-2017
+  institution:
+    name: Abraham Lincoln High School
+  extracurricularActivities:
+    - Cofounded Coding Club
+    - Webmaster at Academy of Information Technology
+    - Game Development at Sunset Media Wave
+

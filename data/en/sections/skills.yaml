@@ -24,10 +24,6 @@ skills:
   logo: "/images/skills/cloud.png"
   summary: "Worked with most of the major cloud services such as **Google Cloud** and **AWS**."
 
-- name: Version Control
-  logo: "/images/skills/git.png"
-  summary: "Understanding of version control using **Git** and basic workflow such as branching, MR/PR, code reviews, etc."
-
 - name: Databases
   logo: "/images/skills/postgres.png"
   summary: "Have used various SQL based databases such as **Postgresql** and **MySQL**. Comfortable with some NoSQL databases such as **MongoDB**."
@@ -44,6 +40,6 @@ skills:
   logo: "/images/skills/elasticsearch.png"
   summary: "Have deployed and used logging solutions such as the **ELK stack** (elasticsearch, logstash, kibana)."
 
-- name: Configuration Management
+- name: Other
   logo: "/images/skills/ansible.png"
-  summary: "Comfortable with configuration management tools such as **Ansible**."
+  summary: "Comfortable with configuration management tools such as **Ansible**. Understanding of version control using **Git**."

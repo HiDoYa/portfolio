@@ -24,34 +24,34 @@ projects:
   # repo: ""
   url: https://github.com/HiDoYa/webassembly-video-filters
   summary: Performant video filters in a browser using webassembly. Implements various video scopes such as lumascope, rgb parade, and vector scope.
-  tags: []
-
-- name: LupSeat
-  logo: /images/projects/lupseat.png
-  url: https://gitlab.com/luplab/lupseat
-  summary: LupSeat automates the seat assignment process in an easy way using an algorithmic approach to simplify the process of spacing out students and minimizes the chance of errors.
-  tags: []
+  tags: ['Webassembly', 'C++', 'Javascript', 'Angular', 'Chrome Extension', 'Node.js']
 
 - name: Kernel Level Keylogger
   logo: /images/projects/lock.png
   url: https://github.com/HiDoYa/linux-secretive-keylogger
   summary: Linux kernel level keylogger that uses Twitter as a covert channel to get information of keystrokes and user data into the attacker using steganography.
-  tags: []
+  tags: ['C++', 'Python', 'Bash', 'Twitter API']
+
+- name: LupSeat
+  logo: /images/projects/lupseat.png
+  url: https://gitlab.com/luplab/lupseat
+  summary: LupSeat automates the seat assignment process in an easy way using an algorithmic approach to simplify the process of spacing out students and minimizes the chance of errors.
+  tags: ['Python', 'Gitlab CI']
 
 - name: Schedule Builder to Calendar
   logo: /images/projects/calendar.png
-  url: https://github.com/HiDoYa/classify-environment
-  summary: Convolutional neural network using LeNet architecture to classify a picture into 4 environment categories\; Forest, ocean, mountain, city.
-  tags: []
+  url: https://github.com/HiDoYa/schedulebuilder-to-calendar
+  summary: Google chrome extension to take your current schedule from schedule builder (UC Davis) and save it in a calendar format to be imported into google calendar or any other calendar software.
+  tags: ['Chrome Extension', 'Javascript']
 
 - name: Reddit Sentiment
   logo: /images/projects/reddit-sent.png
   url: https://github.com/HiDoYa/reddit-sentiment
   summary: Webapp to run subreddit posts through sentiment analysis so that you can see how positive (or negative) the comments are on a particular reddit post!
-  tags: []
+  tags: ['Google Cloud', 'Angular', 'Django', 'AWS', 'Docker']
 
 - name: Classify Environment
   logo: /images/projects/classify-env.png
-  url: https://github.com/HiDoYa/schedulebuilder-to-calendar
-  summary: Google chrome extension to take your current schedule from schedule builder (UC Davis) and save it in a calendar format to be imported into google calendar or any other calendar software.
-  tags: []
+  url: https://github.com/HiDoYa/classify-environment
+  summary: Convolutional neural network using LeNet architecture to classify a picture into 4 environment categories\; Forest, ocean, mountain, city.
+  tags: ['Python', 'Keras']
