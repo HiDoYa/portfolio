@@ -39,3 +39,4 @@ jobs:
       with:
         source_file: 'CNAME'
         destination_repo: 'HiDoYa/HiDoYa.github.io'
+        destination_branch: 'master'
