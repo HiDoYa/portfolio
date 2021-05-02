@@ -40,3 +40,6 @@ jobs:
         source_file: 'CNAME'
         destination_repo: 'HiDoYa/HiDoYa.github.io'
         destination_branch: 'master'
+        user_email: 'hiroyagojo@gmail.com'
+        user_name: 'HiDoYa'
+        commit_message: 'Copy cname"
