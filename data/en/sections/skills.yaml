@@ -22,7 +22,7 @@ skills:
 
 - name: Cloud Computing
   logo: "/images/skills/cloud.png"
-  summary: "Worked with most of the major cloud services such as **Google Cloud** and **AWS**."
+  summary: "Worked with most of the major cloud services such as **Google Cloud**, **AWS**, and **AliCloud**."
 
 - name: Databases
   logo: "/images/skills/postgres.png"
