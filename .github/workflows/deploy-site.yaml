@@ -42,4 +42,4 @@ jobs:
         destination_branch: 'master'
         user_email: 'hiroyagojo@gmail.com'
         user_name: 'HiDoYa'
-        commit_message: 'Copy cname"
+        commit_message: 'Copy cname'
