@@ -11,7 +11,7 @@ languages:
     languageName: English
     weight: 1
 
-googleAnalytics: G-PV547B12VY
+googleAnalytics: UA-196224788-1
 
 # Control TOC depth
 markup:
