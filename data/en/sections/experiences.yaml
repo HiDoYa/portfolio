@@ -30,11 +30,11 @@ experiences:
       - Lead and mentored a team of 7 developers for programming projects. Interviewed, hired, and trained 4 programmers.
       - Developed UC Davis websites using Django and SQL databases with Nginx as a web server. Powering most of the school web applications and ecommerce sites serving over 40,000 students.
       - Setup and maintain a virtual machine fleet using VMWare ESXi/vCenter with NAS.
-      - Dockerize applications and create Helm charts for deployment on Kubernetes (GKE). Greatly simplified Kubernetes cluster architecture.
+      - Dockerize applications and create Helm charts for deployment on Kubernetes (GKE). Deployed new Kubernetes cluster on bare metal using Kubeadm.
       - Configured and maintained network architecture, DNS, and firewall rules for the association using pfSense and Unifi switches/APs.
       - Implemented a monitoring solution using the TICK stack (Telegraf, InfluxDB, Chronograf, Kapacitor) to run health checks against services and provide alerts to ensure high uptime.
       - Spearheaded movement towards infrastructure as code (IaC) using Terraform and Ansible to provision and configure servers.
-      - Deployed a logging solution with ELK stack (Elasticsearch, Logstash, Kibana), Filebeats on each data source,and Kafka as a messaging queue to handle load.
+      - Deployed a logging solution with ELK stack (Elasticsearch, Logstash, Kibana) with Filebeats and Metricbeats as data sources.
 
 - company:
     name: Joel Porquet Research Lab
