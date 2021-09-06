@@ -1,5 +1,5 @@
 # Portfolio
-My portfolio website for my projects and experience. Accessible at [hiroyagojo.com](https://hiroyagojo.com)
+My portfolio website for my projects and experience. Accessible at [portfolio.hiroyagojo.com](https://portfolio.hiroyagojo.com)
 
 Built using the static site generator Hugo and the 'Toha' theme.
 
